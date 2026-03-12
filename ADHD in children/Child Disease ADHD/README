@@ -1,0 +1,20 @@
+#  ADHD Detection in Children using Machine Learning
+
+## 📖 Project Overview
+This project aims to help in the early detection of ADHD in children using Pose Estimation, body movement and Behavioral Analysis. 
+
+## 🚀 Key Features
+- **Real-time Detection**: Uses computer vision to analyze movement.
+- **Data Insights**: Processes on video/Images for accuracy.
+- **ML Models**: Utilizes SVM, Random Forest, etc.
+
+## 🛠️ Tech Stack
+- **Language**: Python
+- **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy
+- **Editor**: VS Code
+
+## 📁 Project Structure
+- `Models/`: Contains trained model files.
+- `dataset/`: Sample data used for training/testing.
+- `notebooks/`: Jupyter notebooks for data analysis.
+
